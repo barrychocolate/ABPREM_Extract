@@ -18,4 +18,4 @@ start_date >= '01/01/2021' OR
 update_date >= '01/01/2021' OR
 entry_date >= '01/01/2021'
 
-details on the AddressBasde Premium scehma can be found here https://www.ordnancesurvey.co.uk/documents/product-support/tech-spec/addressbase-premium-technical-specification.pdf
+Details on the AddressBasde Premium scehma can be found here https://www.ordnancesurvey.co.uk/documents/product-support/tech-spec/addressbase-premium-technical-specification.pdf
